@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
-"""Roast Your Own Agent — prints the one-line roast."""
+"""Roast Your Own Agent — reads roast.txt and prints the one-line roast."""
+# The roast: 57 entries, zero wins — framed as donating entries to the leaderboard.
 from pathlib import Path
 
 
